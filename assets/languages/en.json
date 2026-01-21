@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "app_title": "Demo App",
+  "home": "Home",
+  "welcome": "Welcome!",
+  "profile": "Profile",
+  "language": "Language",
+  "choose_language": "Choose Language",
+
+  "homeMessage": "We bring you today's tips and news.",
+  "dailyTips": "Daily Tips",
+  "dailyTipsDesc": "Receive useful tips every day.",
+  "newsUpdate": "News Update",
+  "newsUpdateDesc": "Follow the latest news and stay informed.",
+  "exploreMore": "Explore More",
+  "exploreMoreDesc": "Discover interesting articles and content."
+}

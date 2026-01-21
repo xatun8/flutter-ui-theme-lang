@@ -1,0 +1,17 @@
+{
+  "@@locale": "az",
+  "app_title": "Demo App",
+  "home": "Ana səhifə",
+  "welcome": "Xoş gəldin!",
+  "profile": "Profil",
+  "language": "Dil",
+  "choose_language": "Dil seç",
+  
+  "homeMessage": "Bu günün məsləhətləri və xəbərləri ilə sizi tanış edirik.",
+  "dailyTips": "Gündəlik Məsləhətlər",
+  "dailyTipsDesc": "Hər gün sizə faydalı məsləhətlər təqdim olunur.",
+  "newsUpdate": "Xəbər Yeniləmələri",
+  "newsUpdateDesc": "Ən son xəbərləri izləyin və məlumatlı olun.",
+  "exploreMore": "Daha Çox Kəşf Et",
+  "exploreMoreDesc": "Maraqlı məqalələr və məlumatlarla tanış olun."
+}
